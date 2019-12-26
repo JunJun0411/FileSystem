@@ -1,0 +1,14 @@
+mount DISK1.img
+mkdir Test
+ls
+cd Test
+ls ..
+mkdir dummy
+ls
+mkdir dummy
+dump
+cd ..
+dump
+fsck
+exit
+

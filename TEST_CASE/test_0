@@ -1,0 +1,7 @@
+mount DISK1.img
+touch 1
+cpout 1 ex
+cpin 2 exp.txt
+cpout 2 exe
+fsck
+exit
