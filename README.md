@@ -8,6 +8,7 @@ FileSystem
 SFS와 관련된 명령어들을 구현하게 됩니다.
 
 #Simple File System
+
 본 과제에서는 실제 디스크를 사용 하는 것이 아닌, 디스크와 동등한 형태의 디스크 이미지 파일을
 사용 하여 과제를 진행합니다.(과제 압축 파일 내 DISK1.img, DISK2.img, DISKFull.img) 이들 이미지들은
 SFS에서 사용하는 레이아웃 형태로 포맷되어 있는데, disk_read(), disk_write() 함수를 통하여 실제
