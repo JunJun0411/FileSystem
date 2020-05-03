@@ -1,6 +1,5 @@
-운영체제 프로그래밍 과제
+운영체제 프로그래밍 과제 FileSystem
 ==============
-# FileSystem
 ## 과제 개요
 
 본 과제에서는 현존하는 파일 시스템을 간략화 시킨 Simple File System(SFS)의 구현을 통한
